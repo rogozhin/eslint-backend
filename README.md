@@ -3,7 +3,7 @@
 ## Install
 
 ```bash
-npm i -D @rogozhin/eslint-backend
+npm i -D @rogozhin/eslint-config-backend
 ```
 
 ## Usage
@@ -13,7 +13,7 @@ npm i -D @rogozhin/eslint-backend
 ```javascript
 {
   extends: [
-    '@rogozhin/eslint-backend',
+    '@rogozhin/eslint-config-backend',
   ]
 }
 ```

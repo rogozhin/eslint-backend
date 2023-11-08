@@ -1,6 +1,6 @@
 {
-  "name": "@rogozhin/eslint-backend",
-  "version": "1.0.1",
+  "name": "@rogozhin/eslint-config-backend",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
