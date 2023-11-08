@@ -16,6 +16,9 @@
     "url": "https://github.com/rogozhin/eslint-backend/issues"
   },
   "homepage": "https://github.com/rogozhin/eslint-backend#readme",
+  "peerDependencies": {
+    "eslint": ">= 7"
+  },
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^6.10.0",
     "@typescript-eslint/parser": "^6.10.0",
