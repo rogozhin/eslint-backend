@@ -1,4 +1,4 @@
-# eslint-backend
+# eslint-config-backend
 
 ## Install
 
